@@ -12,7 +12,7 @@ Die Plattform bietet einen offenen Raum für die Zusammenarbeit zwischen Experti
 Durch den offenen Austausch und die kollaborative Entwicklung werden Standards in konkrete, anwendbare Technologien übersetzt, um Innovation und Standardisierung aufeinander abzustimmen.
  
 
-### Open SPEC
+## Open SPEC
 Der Open-Source-Ansatz lässt sich grundsätzlich auch auf klassische Standardisierungsergebnisse anwenden. Konkret werden bei Open SPECS die Spezifikationen selbst unter einer Open-Source-Lizenz (Creative Commons) auf der DIN-Kollaborationsplattform [DIN.ONE](https://din.one/display/OpenSPEC/Open+SPEC) veröffentlicht und mit einer breiten Community Vorschläge zur Weiterentwicklung des Standards erarbeitet.
 
 
@@ -22,7 +22,7 @@ Der Open-Source-Ansatz lässt sich grundsätzlich auch auf klassische Standardis
 | VDE  DKE |     DIN e. V.  |
 |----------|-------------|
 |Dr. Michael Rudschuck| Daniel Haack |
-|Abteilungsleiter Industry | Projektmanager Digitale Plattformen |
+|Abteilungsleiter Industry | Senior Projektmanager Strategische Themenentwicklung |
 |                          | |
 |Merianstr. 28              | Burggrafenstraße 6 |
 |D-63069 Offenbach am Main  | D-10787 Berlin |
