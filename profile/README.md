@@ -13,7 +13,7 @@ Durch den offenen Austausch und die kollaborative Entwicklung werden Standards i
  
 
 ### Open SPEC
-Der Open-Source-Ansatz lässt sich grundsätzlich auch auf klassische Standardisierungsergebnisse anwenden. Konkret wird die Spezifikation (SPEC) selbst unter einer Open-Source-Lizenz (Creative Commons) veröffentlicht. Auf dieser Basis werden bereits Open SPECS auf der DIN-Kollaborationsplattform [DIN.ONE](https://din.one/display/OpenSPEC/Open+SPEC) zur Vefügung gestellt und nach Veröffentlichung mit einer breiten Community Vorschläge zur Weiterentwicklung des Standards erarbeitet.
+Der Open-Source-Ansatz lässt sich grundsätzlich auch auf klassische Standardisierungsergebnisse anwenden. Konkret werden bei Open SPECS die Spezifikationen selbst unter einer Open-Source-Lizenz (Creative Commons) auf der DIN-Kollaborationsplattform [DIN.ONE](https://din.one/display/OpenSPEC/Open+SPEC) veröffentlicht und mit einer breiten Community Vorschläge zur Weiterentwicklung des Standards erarbeitet.
 
 
 # Ansprechpartner:
